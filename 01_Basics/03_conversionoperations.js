@@ -28,3 +28,6 @@ console.log(converNumberInBoolean);
 // 0 => false
 // "" => False
 // "a" => true
+
+// ********************** operations ********************
+
